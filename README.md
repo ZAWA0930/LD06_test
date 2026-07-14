@@ -26,8 +26,6 @@ python --version
 :: プログラム実行
 python LD06_test.py
 
-:: ライブラリ一覧を保存
-pip freeze > requirements.txt
 
 :: 仮想環境終了
 deactivate
